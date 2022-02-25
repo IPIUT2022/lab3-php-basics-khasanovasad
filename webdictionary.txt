@@ -1,0 +1,7 @@
+AJAX Asynchronous_JavaScript_and_XML
+CSS Cascading_Style_Sheets
+HTML Hyper_Text_Markup_Language
+PHP PHP_Hypertext_Preprocessor
+SQL Structured_Query_Language
+SVG Scalable_Vector_Graphics
+XML EXtensible_Markup_Language
